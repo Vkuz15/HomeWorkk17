@@ -9,3 +9,4 @@ public class EmployeeFullException extends RuntimeException{
         super(message);
     }
 }
+
